@@ -1,0 +1,5 @@
+NAME="sugar-Implode"
+VERSION=15
+RELEASE=1
+SUGAR_TYPE="honey"
+inherit sugar
